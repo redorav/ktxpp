@@ -1,0 +1,22 @@
+
+
+# User files
+*.suo
+*.user
+*.sln.docstates
+*.tlog
+*.opensdf
+*.sdf
+
+# Build folders
+
+workspace/
+debug/
+ipch/
+
+# Visual Studio Intermediate files
+*.opendb
+*.db
+
+# Temporary
+*.tmp
